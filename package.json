@@ -1,7 +1,7 @@
 {
-  "name": "blog_api",
+  "name": "blogapi",
   "version": "1.0.0",
-  "description": "",
+  "description": "blogapi",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,6 +14,6 @@
     "dotenv": "^16.3.1",
     "express": "^4.18.2",
     "express-async-errors": "^3.1.1",
-    "mongoose": "^8.0.0"
+    "mongoose": "^7.5.3"
   }
 }
